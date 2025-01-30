@@ -1,5 +1,5 @@
 # Womp-for-Mechvibes
-a silly sound i like on my keyboard cause it sounds like a video game ui
+A silly custom sound pack i like on my keyboard cause it sounds like a video game ui.
 
 
 https://github.com/user-attachments/assets/e0cf812e-2b7c-45f7-bb3f-a5862fb8cebc
