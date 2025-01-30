@@ -4,9 +4,8 @@ a silly sound i like on my keyboard cause it sounds like a video game ui
 
 https://github.com/user-attachments/assets/e0cf812e-2b7c-45f7-bb3f-a5862fb8cebc
 
-# Installation Guide for Womp Sound Pack
+# Installation Guide
 
-Follow the steps below to easily install and use the **Womp** sound pack for Mechvibes:
 
 ## 1. Download Mechvibes
 First, download **Mechvibes** from the official website:  
